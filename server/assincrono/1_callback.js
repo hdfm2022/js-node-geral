@@ -1,8 +1,5 @@
 // pra executar:
-// node .\server\assincrono\callback.js
-
-console.log("callback.js");
-console.log("--");
+// node .\server\assincrono\1_callback.js
 
 const fs = require('fs')
 console.log('1')

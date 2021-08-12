@@ -1,8 +1,5 @@
 // pra executar:
-// node .\server\assincrono\promises.js
-
-console.log("promises.js");
-console.log("--");
+// node .\server\assincrono\2_promises.js
 
 const fs = require('fs')
 
