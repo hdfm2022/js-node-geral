@@ -1,5 +1,5 @@
 // pra executar:
-// node .\server\assincrono\2_promises.js
+// node .\server\assincrono\2_promises_1.js
 
 const fs = require('fs')
 
