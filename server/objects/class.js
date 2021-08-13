@@ -1,3 +1,5 @@
+// node .\server\objects\class.js
+
 class Microfone {
     constructor(color = 'black') {
         this.color = color;
