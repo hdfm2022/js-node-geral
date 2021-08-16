@@ -1,5 +1,4 @@
-
-
+// node .\server\objects\prototype.js
 
 function Microfone(color = "black") {
     this.color = color;

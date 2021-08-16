@@ -1,3 +1,5 @@
+// node .\server\objects\objectliteral.js
+
 const microfone = {
     color: 'black'
     , isOn: true

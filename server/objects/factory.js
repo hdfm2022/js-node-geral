@@ -1,3 +1,5 @@
+// node .\server\objects\factory.js
+
 function createMicrofone(color = "black") {
     let isOn = true; // "privado"
 
